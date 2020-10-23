@@ -1,0 +1,6 @@
+{
+  "parent": "allure:block/speleothem_small",
+  "textures": {
+    "block": "minecraft:block/diorite"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "block.crate.wood_open": {
+    "category": "wood",
+    "subtitle": "subtitles.allure.wood_open",
+    "sounds": [
+      "allure:block/crate/wood_open1",
+      "allure:block/crate/wood_open2"
+    ]
+  },
+  "block.crate.wood_close": {
+    "category": "wood",
+    "subtitle": "subtitles.allure.wood_close",
+    "sounds": [
+      "allure:block/crate/wood_close1",
+      "allure:block/crate/wood_close2"
+    ]
+  },
+  "block.crate.wood_smash": {
+    "category": "wood",
+    "subtitle": "subtitles.allure.wood_smash",
+    "sounds": [
+      "allure:block/crate/wood_smash"
+    ]
+  },
+  "entity.crab.idle": {
+    "subtitle": "subtitles.allure.crab_scuttle",
+    "sounds": [
+      "allure:entity/crab/crab_idle"
+    ]
+  },
+  "entity.crab.hurt": {
+    "subtitle": "subtitles.allure.crab_hurt",
+    "sounds": [
+      "allure:entity/crab/crab_hurt"
+    ]
+  },
+  "entity.crab.die": {
+    "subtitle": "subtitles.allure.crab_die",
+    "sounds": [
+      "allure:entity/crab/crab_hurt"
+    ]
+  }
+}

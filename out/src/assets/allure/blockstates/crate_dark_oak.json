@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "sealed=false": { "model": "allure:block/crate_dark_oak" },
+    "sealed=true": { "model": "allure:block/crate_sealed_dark_oak" }
+  }
+}

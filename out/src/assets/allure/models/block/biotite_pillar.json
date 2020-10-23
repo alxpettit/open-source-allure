@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "allure:block/biotite_pillar_top",
+    "side": "allure:block/biotite_pillar"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "sealed=false": { "model": "allure:block/crate_spruce" },
+    "sealed=true": { "model": "allure:block/crate_sealed_spruce" }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "allure:block/chiseled_biotite_block_top",
+    "side": "allure:block/chiseled_biotite_block"
+  }
+}

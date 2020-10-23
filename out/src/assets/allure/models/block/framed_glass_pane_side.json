@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "pane": "allure:block/framed_glass",
+    "edge": "allure:block/framed_glass_pane_top"
+  }
+}

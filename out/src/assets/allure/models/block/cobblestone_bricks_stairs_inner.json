@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "allure:block/cobblestone_bricks",
+    "top": "allure:block/cobblestone_bricks",
+    "side": "allure:block/cobblestone_bricks"
+  }
+}

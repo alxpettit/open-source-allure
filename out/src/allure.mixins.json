@@ -1,0 +1,41 @@
+{
+  "required": true,
+  "package": "net.Shad0w.Allure.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "VindicatorToJohnnyMixin",
+    "VillagerFollowMixin",
+    "ChorusFruitEatMixin",
+    "MiningToolMixin",
+    "SwordItemMixin",
+    "PlayerInventoryMixin",
+    "LivingEntityMixin",
+    "BlockBreakMixin",
+    "SpongeReducesFallDamageMixin",
+    "BowAttackGoalMixin",
+    "PlayerEntityMixin",
+    "WorldRendererMixin",
+    "FarmlandBlockMixin",
+    "LakeFeatureMixin",
+    "BeaconBlockEntityMixin",
+    "GlassBottleItemMixin",
+    "ShulkerBoxBlockEntityMixin",
+    "PistonBlockEntityMixin",
+    "PistonHandlerMixin",
+    "ShulkerBoxSlotMixin",
+    "TemptGoalMixin",
+    "EnderDragonFightMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "BoatEntityMixin",
+    "DefaultBiomeFeaturesMixin",
+    "DefaultBiomeCreatorMixin",
+    "BrewingRecipeRegistryMixin"
+  ],
+  "client": [
+    "CustomTotemAnimationMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "Allure-refmap.json"
+}

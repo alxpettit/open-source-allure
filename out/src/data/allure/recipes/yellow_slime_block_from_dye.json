@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "slime",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:slime_block"
+    }
+  ],
+  "result": {
+    "item": "allure:yellow_slime_block"
+  }
+}

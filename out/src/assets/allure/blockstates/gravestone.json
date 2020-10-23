@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model":  "allure:block/gravestone"},
+    "facing=south": {"model":  "allure:block/gravestone", "y": 180},
+    "facing=east": {"model":  "allure:block/gravestone", "y":  90},
+    "facing=west": {"model":  "allure:block/gravestone", "y": 270}
+  }
+}

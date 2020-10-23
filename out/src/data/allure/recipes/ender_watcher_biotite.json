@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ORO",
+    "RER",
+    "ORO"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },"O": {
+      "item": "allure:biotite_block"
+    },"E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "allure:ender_watcher"
+  }
+}

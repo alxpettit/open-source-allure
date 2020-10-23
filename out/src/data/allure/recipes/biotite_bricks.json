@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BB",
+    "BB"
+  ],
+  "key": {
+    "B": {
+      "item": "allure:biotite_block"
+    }
+  },
+  "result": {
+    "item": "allure:biotite_bricks",
+    "count": 4
+  }
+}

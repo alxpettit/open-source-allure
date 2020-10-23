@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "allure:mossy_cobblestone_bricks"
+    }
+  },
+  "result": {
+    "item": "allure:mossy_cobblestone_bricks_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "allure:block/crate_sealed_dark_oak_top",
+    "side": "allure:block/crate_sealed_dark_oak_side",
+    "bottom": "allure:block/crate_sealed_dark_oak_top"
+  }
+}

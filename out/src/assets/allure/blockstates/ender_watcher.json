@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "watched=false": {
+      "model": "allure:block/ender_watcher"
+    },
+    "watched=true": {
+      "model": "allure:block/ender_watcher_on"
+    }
+  }
+}

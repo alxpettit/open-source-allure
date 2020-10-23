@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "allure:biotite_block"
+  },
+  "result": "allure:biotite_pillar",
+  "count": 1
+}

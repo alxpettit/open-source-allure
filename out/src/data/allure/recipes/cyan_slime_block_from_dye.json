@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "slime",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_dye",
+      "count": 2
+    },
+    {
+      "item": "minecraft:slime_block"
+    }
+  ],
+  "result": {
+    "item": "allure:cyan_slime_block"
+  }
+}

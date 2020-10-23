@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "allure:block/biotite_slab"
+    },
+    "type=double": {
+      "model": "allure:block/biotite_block"
+    },
+    "type=top": {
+      "model": "allure:block/biotite_slab_top"
+    }
+  }
+}

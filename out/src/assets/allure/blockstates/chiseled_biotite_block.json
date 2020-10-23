@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "allure:block/chiseled_biotite_block" },
+    "axis=z":   { "model": "allure:block/chiseled_biotite_block", "x": 90 },
+    "axis=x":   { "model": "allure:block/chiseled_biotite_block", "x": 90, "y": 90 }
+  }
+}

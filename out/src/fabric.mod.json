@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "allure",
+  "version": "1.2.7",
+  "name": "Allure",
+  "description": "This mod ports over features from charm/quark to fabric!",
+  "authors": [
+    "Shad0w",
+    "Vazkii",
+    "Svenhjol",
+    "PixlPlex"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/allure/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.Shad0w.Allure.Allure"
+    ],
+    "client": [
+      "net.Shad0w.Allure.AllureClient"
+    ],
+    "modmenu": [
+      "net.Shad0w.Allure.ModMenuCompact"
+    ]
+  },
+  "mixins": [
+    "allure.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/autoconfig1u-3.2.0-unstable.jar"
+    },
+    {
+      "file": "META-INF/jars/LibGui-3.0.0-beta.1+1.16.2-rc2.jar"
+    },
+    {
+      "file": "META-INF/jars/libstructure-1.5.jar"
+    }
+  ]
+}

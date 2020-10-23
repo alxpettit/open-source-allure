@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    "BB ",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "allure:smooth_biotite_block"
+    }
+  },
+  "result": {
+    "item": "allure:smooth_biotite_stairs",
+    "count": 4
+  }
+}

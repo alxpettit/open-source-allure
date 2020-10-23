@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "inverted=false": { "model": "allure:block/weather_detector" },
+    "inverted=true": { "model": "allure:block/weather_detector_inverted" }
+  }
+}

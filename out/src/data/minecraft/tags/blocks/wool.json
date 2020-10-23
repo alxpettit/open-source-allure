@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "allure:cocoa_beans_sack",
+    "allure:berry_sack",
+    "allure:gunpowder_sack"
+  ]
+}

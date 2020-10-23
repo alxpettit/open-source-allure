@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "allure:block/carrot_crate_top",
+    "side": "allure:block/carrot_crate",
+    "bottom": "allure:block/carrot_crate_bottom"
+  }
+}

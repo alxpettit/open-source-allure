@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "size=small": { "model": "allure:block/basalt_speleothem_small" },
+    "size=medium": { "model": "allure:block/basalt_speleothem_medium" },
+    "size=big": { "model": "allure:block/basalt_speleothem_big" }
+  }
+}

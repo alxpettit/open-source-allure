@@ -1,0 +1,196 @@
+{
+  "mappings": {
+    "net/Shad0w/Allure/mixin/MinecartEntityRendererMixin": {
+      "render": "Lnet/minecraft/class_925;method_4063(Lnet/minecraft/class_1688;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "net/Shad0w/Allure/mixin/MinecartEntityMixin": {
+      "interact": "Lnet/minecraft/class_1695;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+    },
+    "net/Shad0w/Allure/mixin/BoatEntityMixin": {
+      "interact": "Lnet/minecraft/class_1690;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+    },
+    "net/Shad0w/Allure/mixin/PistonHandlerMixin": {
+      "isBlockSticky": "Lnet/minecraft/class_2674;method_23367(Lnet/minecraft/class_2248;)Z",
+      "isAdjacentBlockStuck": "Lnet/minecraft/class_2674;method_23675(Lnet/minecraft/class_2248;Lnet/minecraft/class_2248;)Z"
+    },
+    "net/Shad0w/Allure/mixin/MiningToolMixin": {
+      "postMine": "Lnet/minecraft/class_1766;method_7879(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_1309;)Z",
+      "postHit": "Lnet/minecraft/class_1766;method_7873(Lnet/minecraft/class_1799;Lnet/minecraft/class_1309;Lnet/minecraft/class_1309;)Z"
+    },
+    "net/Shad0w/Allure/mixin/BeaconBlockEntityMixin": {
+      "applyPlayerEffects": "Lnet/minecraft/class_2580;method_10940()V"
+    },
+    "net/Shad0w/Allure/mixin/ClientPlayNetworkHandlerMixin": {
+      "onEntitySpawn": "Lnet/minecraft/class_634;method_11112(Lnet/minecraft/class_2604;)V"
+    },
+    "net/Shad0w/Allure/mixin/LakeFeatureMixin": {
+      "generate": "Lnet/minecraft/class_3085;method_13471(Lnet/minecraft/class_5281;Lnet/minecraft/class_2794;Ljava/util/Random;Lnet/minecraft/class_2338;Lnet/minecraft/class_2963;)Z"
+    },
+    "net/Shad0w/Allure/mixin/SwordItemMixin": {
+      "postMine": "Lnet/minecraft/class_1829;method_7879(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_1309;)Z",
+      "postHit": "Lnet/minecraft/class_1829;method_7873(Lnet/minecraft/class_1799;Lnet/minecraft/class_1309;Lnet/minecraft/class_1309;)Z"
+    },
+    "net/Shad0w/Allure/mixin/LeashKnotEntityRendererMixin": {
+      "render": "Lnet/minecraft/class_920;method_4035(Lnet/minecraft/class_1532;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "net/Shad0w/Allure/mixin/PlayerEntityMixin": {
+      "dropInventory": "Lnet/minecraft/class_1657;method_16078()V"
+    },
+    "net/Shad0w/Allure/mixin/CustomTotemAnimationMixin": {
+      "onEntityStatus": "Lnet/minecraft/class_634;method_11148(Lnet/minecraft/class_2663;)V"
+    },
+    "net/Shad0w/Allure/mixin/LivingEntityMixin": {
+      "updatePostDeath": "Lnet/minecraft/class_1309;method_6108()V",
+      "damage": "Lnet/minecraft/class_1309;method_5643(Lnet/minecraft/class_1282;F)Z"
+    },
+    "net/Shad0w/Allure/mixin/BlockBreakMixin": {
+      "afterBreak": "Lnet/minecraft/class_2248;method_9556(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2586;Lnet/minecraft/class_1799;)V"
+    },
+    "net/Shad0w/Allure/mixin/AbstractMinecartEntityMixin": {
+      "interact": "Lnet/minecraft/class_1695;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+    },
+    "net/Shad0w/Allure/mixin/VillagerFollowMixin": {
+      "setVillagerData": "Lnet/minecraft/class_1646;method_7221(Lnet/minecraft/class_3850;)V"
+    },
+    "net/Shad0w/Allure/mixin/DefaultBiomeCreatorMixin": {
+      "createBeach": "Lnet/minecraft/class_5478;method_30685(FFFFIZZ)Lnet/minecraft/class_1959;",
+      "createDarkForest": "Lnet/minecraft/class_5478;method_30705(FFZ)Lnet/minecraft/class_1959;"
+    },
+    "net/Shad0w/Allure/mixin/ChorusFruitEatMixin": {
+      "finishUsing": "Lnet/minecraft/class_1757;method_7861(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_1309;)Lnet/minecraft/class_1799;"
+    },
+    "net/Shad0w/Allure/mixin/PistonBlockEntityMixin": {
+      "isPushingHoneyBlock": "Lnet/minecraft/class_2669;method_23364()Z",
+      "pushEntities": "Lnet/minecraft/class_2669;method_11503(F)V"
+    },
+    "net/Shad0w/Allure/mixin/TemptGoalMixin": {
+      "canStart": "Lnet/minecraft/class_1391;method_6264()Z"
+    },
+    "net/Shad0w/Allure/mixin/BrewingRecipeRegistryMixin": {
+      "registerPotionRecipe": "method_8074(Lnet/minecraft/class_1842;Lnet/minecraft/class_1792;Lnet/minecraft/class_1842;)V"
+    },
+    "net/Shad0w/Allure/mixin/FarmlandBlockMixin": {
+      "onLandedUpon": "Lnet/minecraft/class_2344;method_9554(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1297;F)V"
+    },
+    "net/Shad0w/Allure/mixin/EnderDragonFightMixin": {
+      "dragonKilled": "Lnet/minecraft/class_2881;method_12528(Lnet/minecraft/class_1510;)V"
+    },
+    "net/Shad0w/Allure/mixin/PlayerInventoryMixin": {
+      "damageArmor": "Lnet/minecraft/class_1661;method_7375(Lnet/minecraft/class_1282;F)V"
+    },
+    "net/Shad0w/Allure/mixin/DefaultBiomeFeaturesMixin": {
+      "addAncientDebris": "Lnet/minecraft/class_3864;method_28439(Lnet/minecraft/class_5485$class_5495;)V",
+      "addNetherMineables": "Lnet/minecraft/class_3864;method_24382(Lnet/minecraft/class_5485$class_5495;)V",
+      "addDungeons": "Lnet/minecraft/class_3864;method_17004(Lnet/minecraft/class_5485$class_5495;)V",
+      "addDefaultDisks": "Lnet/minecraft/class_3864;method_17010(Lnet/minecraft/class_5485$class_5495;)V",
+      "addDesertFeatures": "Lnet/minecraft/class_3864;method_16989(Lnet/minecraft/class_5485$class_5495;)V"
+    },
+    "net/Shad0w/Allure/mixin/ShulkerBoxBlockEntityMixin": {
+      "canInsert": "Lnet/minecraft/class_2627;method_5492(ILnet/minecraft/class_1799;Lnet/minecraft/class_2350;)Z"
+    },
+    "net/Shad0w/Allure/mixin/WorldRendererMixin": {
+      "processWorldEvent": "Lnet/minecraft/class_761;method_8567(Lnet/minecraft/class_1657;ILnet/minecraft/class_2338;I)V"
+    },
+    "net/Shad0w/Allure/mixin/ShulkerBoxSlotMixin": {
+      "canInsert": "Lnet/minecraft/class_1736;method_7680(Lnet/minecraft/class_1799;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/Shad0w/Allure/mixin/MinecartEntityRendererMixin": {
+        "render": "Lnet/minecraft/class_925;method_4063(Lnet/minecraft/class_1688;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "net/Shad0w/Allure/mixin/MinecartEntityMixin": {
+        "interact": "Lnet/minecraft/class_1695;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+      },
+      "net/Shad0w/Allure/mixin/BoatEntityMixin": {
+        "interact": "Lnet/minecraft/class_1690;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+      },
+      "net/Shad0w/Allure/mixin/PistonHandlerMixin": {
+        "isBlockSticky": "Lnet/minecraft/class_2674;method_23367(Lnet/minecraft/class_2248;)Z",
+        "isAdjacentBlockStuck": "Lnet/minecraft/class_2674;method_23675(Lnet/minecraft/class_2248;Lnet/minecraft/class_2248;)Z"
+      },
+      "net/Shad0w/Allure/mixin/MiningToolMixin": {
+        "postMine": "Lnet/minecraft/class_1766;method_7879(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_1309;)Z",
+        "postHit": "Lnet/minecraft/class_1766;method_7873(Lnet/minecraft/class_1799;Lnet/minecraft/class_1309;Lnet/minecraft/class_1309;)Z"
+      },
+      "net/Shad0w/Allure/mixin/BeaconBlockEntityMixin": {
+        "applyPlayerEffects": "Lnet/minecraft/class_2580;method_10940()V"
+      },
+      "net/Shad0w/Allure/mixin/ClientPlayNetworkHandlerMixin": {
+        "onEntitySpawn": "Lnet/minecraft/class_634;method_11112(Lnet/minecraft/class_2604;)V"
+      },
+      "net/Shad0w/Allure/mixin/LakeFeatureMixin": {
+        "generate": "Lnet/minecraft/class_3085;method_13471(Lnet/minecraft/class_5281;Lnet/minecraft/class_2794;Ljava/util/Random;Lnet/minecraft/class_2338;Lnet/minecraft/class_2963;)Z"
+      },
+      "net/Shad0w/Allure/mixin/SwordItemMixin": {
+        "postMine": "Lnet/minecraft/class_1829;method_7879(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_1309;)Z",
+        "postHit": "Lnet/minecraft/class_1829;method_7873(Lnet/minecraft/class_1799;Lnet/minecraft/class_1309;Lnet/minecraft/class_1309;)Z"
+      },
+      "net/Shad0w/Allure/mixin/LeashKnotEntityRendererMixin": {
+        "render": "Lnet/minecraft/class_920;method_4035(Lnet/minecraft/class_1532;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "net/Shad0w/Allure/mixin/PlayerEntityMixin": {
+        "dropInventory": "Lnet/minecraft/class_1657;method_16078()V"
+      },
+      "net/Shad0w/Allure/mixin/CustomTotemAnimationMixin": {
+        "onEntityStatus": "Lnet/minecraft/class_634;method_11148(Lnet/minecraft/class_2663;)V"
+      },
+      "net/Shad0w/Allure/mixin/LivingEntityMixin": {
+        "updatePostDeath": "Lnet/minecraft/class_1309;method_6108()V",
+        "damage": "Lnet/minecraft/class_1309;method_5643(Lnet/minecraft/class_1282;F)Z"
+      },
+      "net/Shad0w/Allure/mixin/BlockBreakMixin": {
+        "afterBreak": "Lnet/minecraft/class_2248;method_9556(Lnet/minecraft/class_1937;Lnet/minecraft/class_1657;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2586;Lnet/minecraft/class_1799;)V"
+      },
+      "net/Shad0w/Allure/mixin/AbstractMinecartEntityMixin": {
+        "interact": "Lnet/minecraft/class_1695;method_5688(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Lnet/minecraft/class_1269;"
+      },
+      "net/Shad0w/Allure/mixin/VillagerFollowMixin": {
+        "setVillagerData": "Lnet/minecraft/class_1646;method_7221(Lnet/minecraft/class_3850;)V"
+      },
+      "net/Shad0w/Allure/mixin/DefaultBiomeCreatorMixin": {
+        "createBeach": "Lnet/minecraft/class_5478;method_30685(FFFFIZZ)Lnet/minecraft/class_1959;",
+        "createDarkForest": "Lnet/minecraft/class_5478;method_30705(FFZ)Lnet/minecraft/class_1959;"
+      },
+      "net/Shad0w/Allure/mixin/ChorusFruitEatMixin": {
+        "finishUsing": "Lnet/minecraft/class_1757;method_7861(Lnet/minecraft/class_1799;Lnet/minecraft/class_1937;Lnet/minecraft/class_1309;)Lnet/minecraft/class_1799;"
+      },
+      "net/Shad0w/Allure/mixin/PistonBlockEntityMixin": {
+        "isPushingHoneyBlock": "Lnet/minecraft/class_2669;method_23364()Z",
+        "pushEntities": "Lnet/minecraft/class_2669;method_11503(F)V"
+      },
+      "net/Shad0w/Allure/mixin/TemptGoalMixin": {
+        "canStart": "Lnet/minecraft/class_1391;method_6264()Z"
+      },
+      "net/Shad0w/Allure/mixin/BrewingRecipeRegistryMixin": {
+        "registerPotionRecipe": "method_8074(Lnet/minecraft/class_1842;Lnet/minecraft/class_1792;Lnet/minecraft/class_1842;)V"
+      },
+      "net/Shad0w/Allure/mixin/FarmlandBlockMixin": {
+        "onLandedUpon": "Lnet/minecraft/class_2344;method_9554(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1297;F)V"
+      },
+      "net/Shad0w/Allure/mixin/EnderDragonFightMixin": {
+        "dragonKilled": "Lnet/minecraft/class_2881;method_12528(Lnet/minecraft/class_1510;)V"
+      },
+      "net/Shad0w/Allure/mixin/PlayerInventoryMixin": {
+        "damageArmor": "Lnet/minecraft/class_1661;method_7375(Lnet/minecraft/class_1282;F)V"
+      },
+      "net/Shad0w/Allure/mixin/DefaultBiomeFeaturesMixin": {
+        "addAncientDebris": "Lnet/minecraft/class_3864;method_28439(Lnet/minecraft/class_5485$class_5495;)V",
+        "addNetherMineables": "Lnet/minecraft/class_3864;method_24382(Lnet/minecraft/class_5485$class_5495;)V",
+        "addDungeons": "Lnet/minecraft/class_3864;method_17004(Lnet/minecraft/class_5485$class_5495;)V",
+        "addDefaultDisks": "Lnet/minecraft/class_3864;method_17010(Lnet/minecraft/class_5485$class_5495;)V",
+        "addDesertFeatures": "Lnet/minecraft/class_3864;method_16989(Lnet/minecraft/class_5485$class_5495;)V"
+      },
+      "net/Shad0w/Allure/mixin/ShulkerBoxBlockEntityMixin": {
+        "canInsert": "Lnet/minecraft/class_2627;method_5492(ILnet/minecraft/class_1799;Lnet/minecraft/class_2350;)Z"
+      },
+      "net/Shad0w/Allure/mixin/WorldRendererMixin": {
+        "processWorldEvent": "Lnet/minecraft/class_761;method_8567(Lnet/minecraft/class_1657;ILnet/minecraft/class_2338;I)V"
+      },
+      "net/Shad0w/Allure/mixin/ShulkerBoxSlotMixin": {
+        "canInsert": "Lnet/minecraft/class_1736;method_7680(Lnet/minecraft/class_1799;)Z"
+      }
+    }
+  }
+}

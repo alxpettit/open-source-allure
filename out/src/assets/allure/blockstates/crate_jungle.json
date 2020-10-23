@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "sealed=false": { "model": "allure:block/crate_jungle" },
+    "sealed=true": { "model": "allure:block/crate_sealed_jungle" }
+  }
+}

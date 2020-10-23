@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/daylight_detector",
+  "textures": {
+    "particle": "allure:block/weather_detector_top",
+    "top": "allure:block/weather_detector_top",
+    "side": "allure:block/weather_detector_side"
+  }
+}

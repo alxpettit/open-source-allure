@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F F",
+    "PPP"
+  ],
+  "key": {
+    "F": {
+      "tag": "allure:wooden_fence_gates"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "allure:feeding_trough"
+  }
+}

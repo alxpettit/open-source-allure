@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "allure:block/biotite_block",
+    "top": "allure:block/biotite_block",
+    "side": "allure:block/biotite_block"
+  }
+}

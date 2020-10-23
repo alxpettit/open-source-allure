@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "size=small": { "model": "allure:block/stone_speleothem_small" },
+    "size=medium": { "model": "allure:block/stone_speleothem_medium" },
+    "size=big": { "model": "allure:block/stone_speleothem_big" }
+  }
+}

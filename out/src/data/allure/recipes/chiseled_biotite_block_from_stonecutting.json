@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "allure:biotite_block"
+  },
+  "result": "allure:chiseled_biotite_block",
+  "count": 1
+}

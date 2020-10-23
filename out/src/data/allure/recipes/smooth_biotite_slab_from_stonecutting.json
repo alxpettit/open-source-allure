@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "allure:smooth_biotite_block"
+  },
+  "result": "allure:smooth_biotite_slab",
+  "count": 2
+}

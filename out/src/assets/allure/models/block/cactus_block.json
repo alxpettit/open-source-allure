@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "allure:block/cactus_block_top",
+    "side": "allure:block/cactus_block"
+  }
+}

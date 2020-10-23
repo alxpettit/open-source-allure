@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "allure:crab_leg"
+  },
+  "result": "allure:cooked_crab_leg",
+  "experience": 0.35,
+  "cookingtime": 100
+}

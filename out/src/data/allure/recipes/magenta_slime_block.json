@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "slime",
+  "ingredients": [
+    {
+      "item": "allure:blue_slime_block"
+    },
+    {
+      "item": "allure:red_slime_block"
+    }
+  ],
+  "result": {
+    "item": "allure:magenta_slime_block"
+  }
+}

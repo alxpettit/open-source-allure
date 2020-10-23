@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "full=false": { "model": "allure:block/trough_empty" },
+    "full=true": { "model": "allure:block/trough_full" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cactus"
+    }
+  },
+  "result": {
+    "item": "allure:cactus_block"
+  }
+}

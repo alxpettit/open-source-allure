@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "allure:cobblestone_bricks"
+  },
+  "result": "allure:cobblestone_bricks_wall",
+  "count": 1
+}

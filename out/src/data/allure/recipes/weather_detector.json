@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "OOO",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "P": {
+      "item": "minecraft:purpur_slab"
+    }
+  },
+  "result": {
+    "item": "allure:weather_detector"
+  }
+}
